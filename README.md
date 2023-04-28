@@ -11,6 +11,11 @@
   * Model Selection
   * Model Building
   * Model Evaluation
+### Required installation:
+  * !pip install pmdarima
+  * !pip install prophet
+  * !pip install sklearn
+  * !pip install statsmodel
 ### Models used:
   * ARIMA
   * Linear Regression
